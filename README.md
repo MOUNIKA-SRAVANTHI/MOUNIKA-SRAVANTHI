@@ -26,4 +26,12 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white)  
 
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/mounika-eedi)
+### 📊 GitHub Stats:
+![Mounika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOUNIKA-SRAVANTH&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MOUNIKA-SRAVANTH&theme=radical&hide_border=true)
+
+### ⚡ Activity Graph:
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOUNIKA-SRAVANTH&theme=react-dark)
+
 

@@ -1,11 +1,23 @@
-- 👋 Hi, I’m @MOUNIKA SRAVANTHI
-- 👀 I’m interested in watching mahabarath,reading bhagvath geetha,learning new technologies
-- 🌱 I’m currently learning powerBI datavisuvalisation tool
-- 📫 How to reach me -->www.linkedin.com/in/mounika-eedi
-- 😄 Pronouns: Mounika
-- ⚡ Fun fact: iam foodie,chubby
+### 👋 Hi, I’m Mounika Sravanthi
 
-<!---
-MOUNIKA-SRAVANTHI/MOUNIKA-SRAVANTHI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in **AI, Data Science, Machine Learning, and LLMs**
+- 📊 I’m currently learning **Large Language models**
+- 📖 I enjoy **watching Mahabharat, reading Bhagavad Gita, and exploring new technologies**
+
+
+
+
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mounika-eedi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-hackerrank-username)
+
+---
+
+### ⚡ Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/mounika-eedi)
+
